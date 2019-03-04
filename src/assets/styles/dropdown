@@ -28,6 +28,7 @@
         height: auto;
         opacity: 1;
         visibility: visible;
+        overflow: auto;
       }
     }
   }
